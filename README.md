@@ -1,7 +1,7 @@
 # ChangeWallPaperAUTO
 The wallpaper will be changed according to your system time, the pictures you choose are recommended to  be time related. So you can create your own Dynamic wallpaper like the one in macOS.
 
-> This project is designed to use the (.EXE) file together with (.BAT) file to change the wallpaper. At present this project is rough. More functions will be added to it in th > efuture release.
+> This project is designed to use the (.EXE) file together with (.BAT) file to change the wallpaper. At present this project is rough. More functions will be added to it in the future release.
 
 -----
 
