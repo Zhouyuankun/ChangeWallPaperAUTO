@@ -36,24 +36,24 @@ The wallpaper will be changed according to your system time, the pictures you ch
 
 10. Right click this and choose Manage
 
-![](resources/set1.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set1.png)
 
 11. Choose this
 
-![](resources/set2.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set2.png)
 
 12. New a task and do the following steps
 
-![](resources/set3.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set3.png)
 
-![](resources/set4.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set4.png)
 
 13. When setting the [program or script] in step 2 , use the filepath where your .bat file exists. 
 
-![](resources/set5.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set5.png)
 
 14. Finally you can see a task like this(the taskname is according to you)
 
-![](resources/set6.png)
+![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/edit/main/resources/set6.png)
 
 15. Restart your computer, you can stay for a while to see whether your computer have changed the wallpaper automatically every two hours after the time you login in the computer.
