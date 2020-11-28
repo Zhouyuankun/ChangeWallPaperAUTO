@@ -15,7 +15,6 @@ The wallpaper will be changed according to your system time, the pictures you ch
    
    ```
       WCHAR wc1[100] = L"C:\\Users\\Celeglow Zhou\\Desktop\\wallpaper\\MCwallpaper";
-    
    ```
 
 4. Change the path according to your computer, the second to last parameter should be the directory you saved the images. The last parameter is the formatted name of your image. so remember to change inages name all to the same format, eg: (myname0.png, myname1.png, ...). 12 images are required.  Noted that you are counted from 0,  the last images name should be myname11.png)
