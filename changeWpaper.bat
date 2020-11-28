@@ -1,0 +1,1 @@
+start "" "C:\Users\Celeglow Zhou\Desktop\hide\changeWpaper.exe"
