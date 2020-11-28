@@ -34,7 +34,7 @@ The wallpaper will be changed according to your system time, the pictures you ch
 
 9. Add the .bat file to your Windows task schedule programe according to the following steps.
 
-10. Right click this and choose Manage
+10. Right click this and choose Manage(if no picture below, please consult this [Can't See Pictures?](https://blog.csdn.net/weixin_42128813/article/details/102915578)
 
 ![](https://github.com/Zhouyuankun/ChangeWallPaperAUTO/blob/main/resources/set1.png?raw=true)
 
